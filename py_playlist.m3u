@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" tvg-name="Trece (Paraguay)" group-title="General",Trece (Paraguay)
+http://45.170.130.224:8000/play/a050/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" tvg-name="Latele" group-title="General",Latele
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" tvg-name="Unicanal" group-title="News",Unicanal
+http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" tvg-name="Telefuturo" group-title="General",Telefuturo
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWnTZ3c.png" tvg-name="Paraguay TV" group-title="General",Paraguay TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" tvg-name="NPY" group-title="News",NPY
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yd9Dw2G.png" tvg-name="Paravision" group-title="General",Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" tvg-name="SUR TV Itapua" group-title="General",SUR TV Itapua
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mfypr0t.png" tvg-name="TV Camara (Paraguay)" group-title="Legislative",TV Camara (Paraguay)
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j2O4ndp.png" tvg-name="Telemundo Internacional" group-title="General",Telemundo Internacional
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" tvg-name="DW Español" group-title="News",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEcOYML.png" tvg-name="Monumental TV" group-title="General",Monumental TV
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnIkhRO.png" tvg-name="Nanduti TV" group-title="News",Nanduti TV
+https://nanduti.b-cdn.net/Source.m3u8
+#EXTINF:-1 tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" tvg-name="Enlace" group-title="Religious",Enlace
+https://livecdnusa.enlace.plus/enlace/0/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" tvg-name="GO TV (Radio)" group-title="Music",GO TV (Radio)
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3taT6JK.jpeg" tvg-name="Nande Portetepe TV" group-title="Music",Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tg6EjTU.png" tvg-name="AGR FM TV" group-title="General",AGR FM TV
+https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-name="El Gourmet South" group-title="Cooking",El Gourmet South
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zjxvg9u.jpeg" tvg-name="Del Rey TV" group-title="Entertainment",Del Rey TV
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7gHFKPZ.png" tvg-name="TV Aire" group-title="General",TV Aire
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" tvg-name="Bruno Masi TV" group-title="General",Bruno Masi TV
+https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cateqjx.jpeg" tvg-name="TV Canindeyu" group-title="General",TV Canindeyu
+https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CaA7l86.png" tvg-name="Mega TV (Paraguay)" group-title="News",Mega TV (Paraguay)
+https://www.desde-paraguay.com/mega.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z89GLCw.png" tvg-name="Red Interior TV" group-title="General",Red Interior TV
+https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wlKFPBW.jpeg" tvg-name="Canal 2 Mar del Plata (720p)" group-title="General",Canal 2 Mar del Plata (720p)
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" tvg-name="Bolivia TV (1080p)" group-title="General",Bolivia TV (1080p)
+http://190.181.61.93:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O02TF2r.png" tvg-name="Rede Globo (1080p)" group-title="News",Rede Globo (1080p)
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mttSwgO.png" tvg-name="Rede Gospel (1080p)" group-title="Religious",Rede Gospel (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlZfR84.png" tvg-name="Mega (Chile) (1080p)" group-title="General",Mega (Chile) (1080p)
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fww94l9.png" tvg-name="Caracol HD2 (1080p)" group-title="General",Caracol HD2 (1080p)
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-name="Las Estrellas (1080p)" group-title="General",Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/No9YzNC.png" tvg-name="Union TV" group-title="General",Union TV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lafmmRa.jpeg" tvg-name="CAD TV" group-title="General",CAD TV
+https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oihaDM.png" tvg-name="Canal 5 TV Max" group-title="General",Canal 5 TV Max
+https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVj5fjg.jpg" tvg-name="Canal 8 C&C Producciones" group-title="General",Canal 8 C&C Producciones
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mKju6hk.png" tvg-name="Canal 8 Vision TV" group-title="General",Canal 8 Vision TV
+https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IRBA9h.png" tvg-name="Occidental TV" group-title="General",Occidental TV
+https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jj0MQP.jpg" tvg-name="Red Digital [No 24/7]" group-title="General",Red Digital [No 24/7]
+https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" tvg-name="24 Horas (Spain) (720p)" group-title="News",24 Horas (Spain) (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwRNes1.png" tvg-name="Suceso TV (No 24/7)" group-title="News",Suceso TV (No 24/7)
+https://live.enhdtv.com:8081/8060/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oq0i3Rb.png" tvg-name="Radio TV El Arca del Pacto (1080p)" group-title="Religious",Radio TV El Arca del Pacto (1080p)
+https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMHiGRN.png" tvg-name="HEi Now" group-title="Music",HEi Now
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RypDUY.png" tvg-name="Estacion 40" group-title="Music",Estacion 40
+https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymcWecA.png" tvg-name="Alcance FM PLAY TV" group-title="Music",Alcance FM PLAY TV
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-name="FX Latin America South (720p)" group-title="Entertainment",FX Latin America South (720p)
+http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-name="A&E Latin America (1080p)" group-title="Entertainment",A&E Latin America (1080p)
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" tvg-name="MiTV (720p)" group-title="Entertainment",MiTV (720p)
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9umNKp.jpeg" tvg-name="Oasis TV (Paraguay)" group-title="Entertainment",Oasis TV (Paraguay)
+https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-name="Golden" group-title="Movies",Golden
+http://181.78.12.119:16123/play/ch46/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ah8n7jL.png" tvg-name="Canal Pro" group-title="Business",Canal Pro
+https://www.desde-paraguay.com/pro.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXHK7UP.png" tvg-name="Productiva TV" group-title="Outdoor",Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAMyExY.jpg" tvg-name="Cosmos TV (720p)" group-title="Science",Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFxuBdL.jpg" tvg-name="Nandejara Ne'e TV" group-title="Religious",Nandejara Ne'e TV
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png" tvg-name="Caritas TV (1080p)" group-title="Religious",Caritas TV (1080p)
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
