@@ -8,7 +8,7 @@ http://45.170.130.224:8000/play/a04y/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" tvg-name="Telefuturo" group-title="General",Telefuturo
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqfBMGy.png" tvg-name="ABC TV" group-title="News",ABC TV
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(alf84fLDxtRrmM0NRGzQjY8rCmpmTpKrxqCYjyBGYWw2jDfhKpOi9i1WwG_gVBKyANpeLSvcgbVD44Ol8T5HM0Qs-60xiaxUZfejkhWQOeDRSGl812BRlmtWSQmGHodW)/cloud/3/x9skr3m/d/live-720.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(BY6puhUY2sJCWhP9NTV-iQLCRs67i0ZN9poD-_fnDItWxv9Rc1yEgvqdWKzVynnkDQVunyz2Em1guDG1SVIdMRHWjRihn1tRpIR5uZx0h3AJ-s1vXpUftKWLGD2HMBfX)/cloud/3/x9skr3m/d/live-720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWnTZ3c.png" tvg-name="Paraguay TV" group-title="General",Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" tvg-name="NPY" group-title="News",NPY
